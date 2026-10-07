@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-**Name: J KARTHIK RAJ**
+**Name: Harinandan R P**
 
-**Roll Number: R25EJ045**
+**Roll Number: R25EJ037**
 
 Personal LeetCode practice log — part of B25GE0101 (Portfolio  Building) Course
 
